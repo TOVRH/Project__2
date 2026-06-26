@@ -1,8 +1,0 @@
-[
-  "tests/test_aktualizovat_ukol.py::test_aktualizovat_ukol",
-  "tests/test_aktualizovat_ukol.py::test_aktualizovat_ukol_neciselne_id",
-  "tests/test_odstranit_ukol.py::test_odstranit_ukol",
-  "tests/test_odstranit_ukol.py::test_odstranit_ukol_neexistujici_id",
-  "tests/test_pridat_ukol.py::test_pridat_ukol_novy",
-  "tests/test_pridat_ukol.py::test_pridat_ukol_prazdny_nazev"
-]
